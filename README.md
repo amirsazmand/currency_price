@@ -24,6 +24,11 @@ Atchitecture
 -------------------------
 Presentation (used MVVM pattern for this layer)
 
+
+Design pattern
+----------------------------
+singleton
+
 Author
 ----------------
 Amir Sazmand
